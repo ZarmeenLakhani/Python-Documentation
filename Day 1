@@ -1,0 +1,9 @@
+import turtle
+
+zarmeen_turt=turtle.Turtle()
+zarmeen_turt.foward(100)
+3+3
+
+
+
+
